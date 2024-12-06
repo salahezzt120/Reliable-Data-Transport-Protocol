@@ -47,10 +47,13 @@ Reliable-Data-Transport-Protocol/
    cd Reliable-Data-Transport-Protocol
 
 2. **Install Dependencies:
+   ```bash
    pip install -r requirements.txt
 
-3. **Run the Server:
+4. **Run the Server:
+   ```bash
    python server/server.py
 
-4. **Run the  Client:
+6. **Run the  Client:
+   ```bash
    python client/client.py:
