@@ -3,7 +3,7 @@ Alamein University
 Faculty of Computer Science & Engineering  
 Course Code: CSE261 - Computer Networks  
 
-![Project Banner](Screenshot 2024-12-06 135828.png)
+![Project Banner](network-banner.png)
 
 ## 📌 Project Overview
 This project implements a **Reliable Data Transport Protocol (RDT)** over the UDP protocol, ensuring ordered and reliable delivery of data packets. It mimics TCP functionalities, including acknowledgments and retransmissions, and supports two RDT methods:
