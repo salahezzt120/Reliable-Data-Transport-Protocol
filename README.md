@@ -45,16 +45,12 @@ Reliable-Data-Transport-Protocol/
    ```bash
    git clone https://github.com/your-username/Reliable-Data-Transport-Protocol.git
    cd Reliable-Data-Transport-Protocol
-🛠️ Setup and Execution
-Install Dependencies:
- ```bash
-pip install -r requirements.txt
-Configure Input Files:
 
-Run the Server:
- ```bash
-python server/server.py
+2. **Install Dependencies:
+   pip install -r requirements.txt
 
-Run the Client:
- ```bash
-python client/client.py
+3. **Run the Server:
+   python server/server.py
+
+4. **Run the  Client:
+   python client/client.py:
