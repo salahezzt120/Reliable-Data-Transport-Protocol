@@ -51,9 +51,6 @@ Install Dependencies:
 pip install -r requirements.txt
 Configure Input Files:
 
-Edit client/client.in to set the server IP, port, filename, and other settings.
-Edit server/server.in to configure the server parameters, including PLP.
-
 Run the Server:
  ```bash
 python server/server.py
